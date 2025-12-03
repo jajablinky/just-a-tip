@@ -1,13 +1,8 @@
-# Jaja Quickstart — Vite + React + TypeScript + Tailwind
+# Just A Tip
 
-A lightweight starter template for building Jaja projects with Vite, React, TypeScript, and Tailwind CSS. It includes a sensible project structure, ready-to-use styling and animation utilities, and optional Arweave deployment scripts so you can ship fast.
+A tip protocol on Arweave.
 
-## Features
 
-- **Quick Start Setup**: Preconfigured Vite + React + TypeScript + Tailwind
-- **Nice Defaults**: Sensible project structure, ESLint config, and scripts
-- **Animations Ready**: Framer Motion wired up for smooth micro-interactions
-- **Arweave Deploy**: Build-and-deploy workflow via ArX/permaweb-deploy
 
 ## Tech Stack
 
@@ -28,7 +23,7 @@ A lightweight starter template for building Jaja projects with Vite, React, Type
 1. Clone the repository
 
 ```bash
-git clone <repo-url> && cd Jaja-Arweave-Starter
+git clone <repo-url> && cd justatip
 ```
 
 2. Install dependencies
