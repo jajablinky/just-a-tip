@@ -26,4 +26,5 @@ llms*
 *.sln
 *.sw?
 
+hyperbeam_docs.txt
 wallet.json
